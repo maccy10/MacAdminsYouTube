@@ -28,5 +28,5 @@ The Ultimate MacAdmins YouTube Guide
 - India Apple Admins: https://www.youtube.com/@indiamacadmins
 - Twin Cities Mac Admins: https://www.youtube.com/@twincitiesmacadmins5763
 
-## 💻 Other
+## Other
 - TBC
