@@ -20,6 +20,7 @@ The Ultimate MacAdmins YouTube Guide
 ## MSPs and Integrators
 - Rocketman Tech: https://www.youtube.com/@RocketmanTech
 - Academia Group: https://www.youtube.com/@AcademiaGroup
+- Apple Consultants Podcast: https://www.youtube.com/@commandcontrolpower
 
 ## User Groups
 - MacAdmins India: https://www.youtube.com/channel/UCCXssSduB96r1OtRB4ipCVg
