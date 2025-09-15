@@ -6,6 +6,7 @@ The Ultimate MacAdmins YouTube Guide
 - Mr Macintosh: https://www.youtube.com/channel/UC7FRPWLwRlhORhFHHywfqAg 
 - Romina Gafur: https://www.youtube.com/@romina
 - iJustine: https://www.youtube.com/@iJustine/videos
+- Breelabs: https://www.youtube.com/@Breelabs
 
 ## Conferences
 - MacAdmins Conference: https://www.youtube.com/@MacAdmins
@@ -30,4 +31,4 @@ The Ultimate MacAdmins YouTube Guide
 - Twin Cities Mac Admins: https://www.youtube.com/@twincitiesmacadmins5763
 
 ## Other
-- TBC
+- Utah MacAdmins Meeting: https://apple.lib.utah.edu
