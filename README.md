@@ -3,6 +3,8 @@ The Ultimate MacAdmins YouTube Guide
 
 # 🔗 Links
 ## Apple Related / General
+- Apple: https://www.youtube.com/@Apple
+- Apple Support: https://www.youtube.com/applesupport
 - Mr Macintosh: https://www.youtube.com/channel/UC7FRPWLwRlhORhFHHywfqAg 
 - Romina Gafur: https://www.youtube.com/@romina
 - iJustine: https://www.youtube.com/@iJustine/videos
@@ -17,6 +19,8 @@ The Ultimate MacAdmins YouTube Guide
 - Addigy: https://www.youtube.com/@addigy
 - Microsoft Intune: https://www.youtube.com/@intuneforeducationcustomer4969
 - Kandji: https://www.youtube.com/@KandjiOfficial
+- ManageEngine: https://www.youtube.com/user/manageengine
+- Fleet: https://www.youtube.com/@fleetdm
 
 ## MSPs and Integrators
 - Rocketman Tech: https://www.youtube.com/@RocketmanTech
@@ -29,6 +33,7 @@ The Ultimate MacAdmins YouTube Guide
 - Greater Philadelphia MacAdmins: https://www.youtube.com/@phillymacadmins
 - India Apple Admins: https://www.youtube.com/@indiamacadmins
 - Twin Cities Mac Admins: https://www.youtube.com/@twincitiesmacadmins5763
+- Suffolk Mac Admins
 
 ## Other
 - Utah MacAdmins Meeting: https://apple.lib.utah.edu
