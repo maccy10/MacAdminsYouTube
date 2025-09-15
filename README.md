@@ -32,3 +32,4 @@ The Ultimate MacAdmins YouTube Guide
 
 ## Other
 - Utah MacAdmins Meeting: https://apple.lib.utah.edu
+- Mac Admins Foundation: https://www.youtube.com/@macadminsfoundation8160
