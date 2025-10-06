@@ -12,6 +12,7 @@ The Ultimate MacAdmins YouTube Guide
 
 ## Conferences
 - MacAdmins Conference: https://www.youtube.com/@MacAdmins
+- MacSysAdmin Conference: https://www.youtube.com/@MacSysAdminConference
 - MacADUK: https://www.youtube.com/@MacADUK
 
 ## MDM Solution Providers
